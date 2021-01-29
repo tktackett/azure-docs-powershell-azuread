@@ -58,7 +58,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Revoke-AzureADSignedInUserAllRefreshToken]()
+[Revoke-AzureADSignedInUserAllRefreshToken](https://docs.microsoft.com/en-us/powershell/module/azuread/revoke-azureadsignedinuserallrefreshtoken?view=azureadps-2.0)
 
-[(#AzureAD: Certificate based authentication for iOS and Android now in preview!](https://blogs.technet.microsoft.com/enterprisemobility/2016/07/18/azuread-certificate-based-authentication-for-ios-and-android-now-in-preview/)
+[AzureAD: Certificate based authentication for iOS and Android now in preview!](https://blogs.technet.microsoft.com/enterprisemobility/2016/07/18/azuread-certificate-based-authentication-for-ios-and-android-now-in-preview/)
 
